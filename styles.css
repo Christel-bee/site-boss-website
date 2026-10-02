@@ -340,7 +340,7 @@ a { color: inherit; }
 }
 
 /* ---------- How It Works ---------- */
-.how-it-works { background: var(--cream); padding: 90px 0; text-align: center; }
+.how-it-works { background: #eaf4fb; padding: 90px 0; text-align: center; }
 
 .how-subcopy {
   color: var(--gray);
